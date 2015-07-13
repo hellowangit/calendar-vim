@@ -211,7 +211,7 @@ ABOUT                                           *calendar-about*
 
 calendar.vim is available on GitHub:
 
-  http://github.com/mattn/calendar.vim
+  https://github.com/mattn/calendar-vim
 
 and also on VimScripts:
 
